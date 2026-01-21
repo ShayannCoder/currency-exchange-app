@@ -15,7 +15,7 @@ A currency conversion application that allows users to exchange global currencie
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/ShayannCoder/currency-exchange-app.git](https://github.com/ShayannCoder/currency-exchange-app.git)
+   git clone https://github.com/ShayannCoder/currency-exchange-app.git
    cd currency-exchange-app
 2. Create a config.proterties file in the root directory
 3. ```java
